@@ -4,4 +4,4 @@
 ### :santa: Week3: 分进合击心法和剑法,以及出报表
 ### :new_moon_with_face: Week4: 数据框重塑和数据框聚合
 ### :tanabata_tree: Week5: 分进合击进阶分析策略(pivot,pivot_table)
-### :surfer: Week6:
+### :surfer: Week6: 对国家数据进行一维数据分析以及巩固前几周所学内容
