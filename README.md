@@ -5,3 +5,7 @@
 ### :new_moon_with_face: Week4: 数据框重塑和数据框聚合
 ### :tanabata_tree: Week5: 分进合击进阶分析策略(pivot,pivot_table)
 ### :surfer: Week6: 对国家数据进行一维数据分析以及巩固前几周所学内容
+### :pig_nose: Week7: 在Week6的基础上进行简单的二维分析和简单可视化
+### :dolphin: Week8: 讲解理论+讨论期末项目
+### :bamboo: Week9: 分进合击进阶分析策略 + 一点点网络图
+### :ghost: Week10: 处理日期数据
