@@ -9,3 +9,5 @@
 ### :dolphin: Week8: 讲解理论+讨论期末项目
 ### :bamboo: Week9: 分进合击进阶分析策略 + 一点点网络图
 ### :ghost: Week10: 处理日期数据
+### :dart: Week11: pyecharts数据可视化 + 搭桥体验
+### :birthday: Week12: Plotly数据可视化 + 搭桥
